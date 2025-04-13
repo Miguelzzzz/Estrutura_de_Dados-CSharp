@@ -26,3 +26,18 @@ c:\xampp\htdocs\CSharp\Vetores\obj\Debug\net9.0\refint\CSharp.dll
 c:\xampp\htdocs\CSharp\Vetores\obj\Debug\net9.0\CSharp.pdb
 C:\xampp\htdocs\CSharp\Vetores\obj\Debug\net9.0\CSharp.genruntimeconfig.cache
 C:\xampp\htdocs\CSharp\Vetores\obj\Debug\net9.0\ref\CSharp.dll
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Vetores\Parte 1\bin\Debug\net9.0\CSharp.exe
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Vetores\Parte 1\bin\Debug\net9.0\CSharp.deps.json
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Vetores\Parte 1\bin\Debug\net9.0\CSharp.runtimeconfig.json
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Vetores\Parte 1\bin\Debug\net9.0\CSharp.dll
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Vetores\Parte 1\bin\Debug\net9.0\CSharp.pdb
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Vetores\Parte 1\obj\Debug\net9.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Vetores\Parte 1\obj\Debug\net9.0\CSharp.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Vetores\Parte 1\obj\Debug\net9.0\CSharp.AssemblyInfo.cs
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Vetores\Parte 1\obj\Debug\net9.0\CSharp.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Vetores\Parte 1\obj\Debug\net9.0\CSharp.sourcelink.json
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Vetores\Parte 1\obj\Debug\net9.0\CSharp.dll
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Vetores\Parte 1\obj\Debug\net9.0\refint\CSharp.dll
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Vetores\Parte 1\obj\Debug\net9.0\CSharp.pdb
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Vetores\Parte 1\obj\Debug\net9.0\CSharp.genruntimeconfig.cache
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Vetores\Parte 1\obj\Debug\net9.0\ref\CSharp.dll

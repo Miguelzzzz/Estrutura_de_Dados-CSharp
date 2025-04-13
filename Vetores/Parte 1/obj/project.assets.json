@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\CSharp\\Vetores\\CSharp.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\Estrutura_de_Dados-CSharp\\Vetores\\Parte 1\\CSharp.csproj",
       "projectName": "CSharp",
-      "projectPath": "C:\\xampp\\htdocs\\CSharp\\Vetores\\CSharp.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\Estrutura_de_Dados-CSharp\\Vetores\\Parte 1\\CSharp.csproj",
       "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\CSharp\\Vetores\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\Estrutura_de_Dados-CSharp\\Vetores\\Parte 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config"
