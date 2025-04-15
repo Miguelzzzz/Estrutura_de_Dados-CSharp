@@ -1,8 +1,8 @@
 ﻿using System;
 
-class DesafioOperacoes
-{
-    static void Main(string[] args)
+public class DesafioOperacoes
+{   
+    public static void Main(string[] args)
     {
         // DECLARANDO VETORES
 
