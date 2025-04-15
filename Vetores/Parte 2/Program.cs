@@ -1,6 +1,6 @@
 ﻿using System;
 
-class SomaVetores
+class OperacoesMatematicas 
 {
     static void Main(string[] args)
     {
