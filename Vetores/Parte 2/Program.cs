@@ -1,6 +1,6 @@
 ﻿using System;
 
-class SomaVetores
+class DesafioOperacoes
 {
     static void Main(string[] args)
     {
@@ -65,7 +65,7 @@ class SomaVetores
 
         Console.WriteLine("\n=== Resultado da Multiplicação ===");
             for (int aux = 0; aux < tamanho; aux++){   
-                Console.WriteLine($"Multiplição[{aux}] = {Mult[aux]}");
+                Console.WriteLine($"Multiplicação[{aux}] = {Mult[aux]}");
             }
     }
 }
