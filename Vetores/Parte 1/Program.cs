@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Desafio1
+public class VetorInicio
 {
     public static void Main(string[] args)
     {
