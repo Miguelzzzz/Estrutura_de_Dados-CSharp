@@ -1,0 +1,15 @@
+c:\xampp\htdocs\Estrutura_de_Dados-CSharp\Matrizes\Parte 1\bin\Debug\net9.0\Parte 1.exe
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Matrizes\Parte 1\bin\Debug\net9.0\Parte 1.deps.json
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Matrizes\Parte 1\bin\Debug\net9.0\Parte 1.runtimeconfig.json
+c:\xampp\htdocs\Estrutura_de_Dados-CSharp\Matrizes\Parte 1\bin\Debug\net9.0\Parte 1.dll
+c:\xampp\htdocs\Estrutura_de_Dados-CSharp\Matrizes\Parte 1\bin\Debug\net9.0\Parte 1.pdb
+c:\xampp\htdocs\Estrutura_de_Dados-CSharp\Matrizes\Parte 1\obj\Debug\net9.0\Parte 1.GeneratedMSBuildEditorConfig.editorconfig
+c:\xampp\htdocs\Estrutura_de_Dados-CSharp\Matrizes\Parte 1\obj\Debug\net9.0\Parte 1.AssemblyInfoInputs.cache
+c:\xampp\htdocs\Estrutura_de_Dados-CSharp\Matrizes\Parte 1\obj\Debug\net9.0\Parte 1.AssemblyInfo.cs
+c:\xampp\htdocs\Estrutura_de_Dados-CSharp\Matrizes\Parte 1\obj\Debug\net9.0\Parte 1.csproj.CoreCompileInputs.cache
+c:\xampp\htdocs\Estrutura_de_Dados-CSharp\Matrizes\Parte 1\obj\Debug\net9.0\Parte 1.sourcelink.json
+c:\xampp\htdocs\Estrutura_de_Dados-CSharp\Matrizes\Parte 1\obj\Debug\net9.0\Parte 1.dll
+c:\xampp\htdocs\Estrutura_de_Dados-CSharp\Matrizes\Parte 1\obj\Debug\net9.0\refint\Parte 1.dll
+c:\xampp\htdocs\Estrutura_de_Dados-CSharp\Matrizes\Parte 1\obj\Debug\net9.0\Parte 1.pdb
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Matrizes\Parte 1\obj\Debug\net9.0\Parte 1.genruntimeconfig.cache
+C:\xampp\htdocs\Estrutura_de_Dados-CSharp\Matrizes\Parte 1\obj\Debug\net9.0\ref\Parte 1.dll
