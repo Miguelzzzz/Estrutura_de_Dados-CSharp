@@ -10,10 +10,12 @@ public class RefatorandoParte2
             public string Alimento;
             public double Preco;
         }
+        
         struct Clientes{
             public string Alimento;
             public double Preco;
         }
+        
     public static void Main(string[] args)
     {  
         const int TAMANHO_LISTA = 5;
