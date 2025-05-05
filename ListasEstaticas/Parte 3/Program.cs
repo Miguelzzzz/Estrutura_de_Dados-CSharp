@@ -9,7 +9,7 @@ public class RefatorandoParte2
         struct Almoco{
             public string Alimento;
             public double Preco;
-        }
+        } 
         
         struct Clientes{
             public string Alimento;
